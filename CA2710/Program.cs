@@ -10,6 +10,26 @@ namespace CA2710
     {
         static void Main(string[] args)
         {
+            int a;
+            double b;
+            string nome;
+            string sobrenome;
+            a = 10;
+            b = 11.5;
+            nome = "Pato Donald";
+            // aqui vai o comentario
+            /*
+           Aqui vai um comentario loooongo
+           com varias linhas de comentarios.
+             */
+            Console.WriteLine("digite seu nome:");
+            nome = Console.ReadLine();
+            Console.WriteLine("Digite seu sobrenome");
+            sobrenome = Console.ReadLine();
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(nome+" "+sobrenome);
+            Console.ReadKey();
         }
     }
 }

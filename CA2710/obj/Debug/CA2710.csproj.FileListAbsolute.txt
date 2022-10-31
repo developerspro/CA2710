@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\CA2710\CA2710\bin\Debug\CA2710.exe.config
+C:\Users\Tecnico\Desktop\CA2710\CA2710\bin\Debug\CA2710.exe
+C:\Users\Tecnico\Desktop\CA2710\CA2710\bin\Debug\CA2710.pdb
+C:\Users\Tecnico\Desktop\CA2710\CA2710\obj\Debug\CA2710.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\CA2710\CA2710\obj\Debug\CA2710.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\CA2710\CA2710\obj\Debug\CA2710.exe
+C:\Users\Tecnico\Desktop\CA2710\CA2710\obj\Debug\CA2710.pdb
